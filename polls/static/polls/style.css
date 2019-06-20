@@ -1,0 +1,7 @@
+h1, h2, h3, h4, li a {
+    color: green;
+    font-family: 'Crimson Text', serif;
+}
+body {
+    background: white url("images/background.png") no-repeat;
+}
